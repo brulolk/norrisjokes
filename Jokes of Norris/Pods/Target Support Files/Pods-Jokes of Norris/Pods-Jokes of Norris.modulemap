@@ -1,0 +1,6 @@
+framework module Pods_Jokes_of_Norris {
+  umbrella header "Pods-Jokes of Norris-umbrella.h"
+
+  export *
+  module * { export * }
+}

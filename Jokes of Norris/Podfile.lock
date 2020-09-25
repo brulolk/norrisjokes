@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.2.1)
+  - RxSwift (5.1.1)
+  - TinyConstraints (4.0.1)
+  - XCoordinator/Core (2.0.7)
+  - XCoordinator/RxSwift (2.0.7):
+    - RxSwift (~> 5.0)
+    - XCoordinator/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - TinyConstraints
+  - XCoordinator/RxSwift (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - RxSwift
+    - TinyConstraints
+    - XCoordinator
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+  XCoordinator: 9ee654fedef1ffede33d5c11677708a555c00542
+
+PODFILE CHECKSUM: 0bc4832ae41fd1dc1be997d0afaaa98f0e44bcb9
+
+COCOAPODS: 1.8.4
