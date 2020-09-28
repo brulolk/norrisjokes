@@ -29,7 +29,7 @@ User can search for facts by suggested terms or categories.
 8. Some other to support these
 
 ## Methods
-1. Using the MVVM basics.
+1. Use of alerts and loads in extension of UIViewController..
 2. Use the MVVM basics.
 3. Use coordinators.
 4. Use of all search functions within the ViewModel.
