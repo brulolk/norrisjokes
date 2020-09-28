@@ -6,7 +6,9 @@ target 'Jokes of Norris' do
   use_frameworks!
 
   # Pods for Jokes of Norris
-  pod 'XCoordinator/RxSwift', '~> 2.0'
+  pod 'SwiftMessages'
+  pod 'MBProgressHUD'
+  pod 'IQKeyboardManagerSwift'
   pod "TinyConstraints"
   pod 'Alamofire', '~> 5.2'
 
